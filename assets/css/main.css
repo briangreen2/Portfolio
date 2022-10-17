@@ -2575,6 +2575,42 @@ input[type='radio'] + label:before {
   width: 100%;
 }
 
+.skill-image {
+  width: 60px;
+  float: left;
+  border-radius: 40px;
+  margin-right: 15px;
+}
+
+.skill-image.css {
+  float: left;
+  margin-right: 10px;
+}
+
+.skill-image.java {
+  width: 60px;
+}
+
+.skill-image.ui-ux {
+  width: 80px;
+  margin-top: 10px;
+}
+
+.skill-image.ps {
+  margin-right: 5px;
+}
+
+.skill-image.ai {
+  margin-right: 5px;
+}
+
+.skill-image.pr {
+  margin-right: 5px;
+}
+
+.skill-image.angular {
+  margin-right: 5px;
+}
 /* List */
 
 ol {
